@@ -1,0 +1,140 @@
+Epoch 1
+[Epoch 1, validation] Confusion Matrix:
+[[5314   11    8    2    4   79   37    2   35]
+ [  22 1030   14   95   60  277    0    0    0]
+ [   0   34 1590    0  124   16    0    0    0]
+ [   0    0    0 2294    9    0    0    0    0]
+ [  24  162    0  387 1760  118    0    0    0]
+ [ 133   54    5  893    0  733   17    0    4]
+ [  18    0    0    0    0    0 1649   95    2]
+ [   0    0    0    0  117   15    0 1630    2]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 1, tain] loss: 0.030, train_accuracy: 0.68008
+[Epoch 1, Vail] loss: 0.01418, accuracy: 0.86070
+[Epoch 1] max_vail_acc: 0.86070
+Epoch 2
+[Epoch 2, validation] Confusion Matrix:
+[[5071    5   14   27    2  279   49   11   34]
+ [   0  907  214   59    5  313    0    0    0]
+ [   0    2 1710    0   44    8    0    0    0]
+ [   0    0    0 2296    7    0    0    0    0]
+ [   7  154   34  386 1742  128    0    0    0]
+ [  25   48   36  709   14  989   18    0    0]
+ [   0    0    0    0    0    0 1733   31    0]
+ [   0    0    0    0    7    7    0 1750    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 2, tain] loss: 0.010, train_accuracy: 0.90897
+[Epoch 2, Vail] loss: 0.01208, accuracy: 0.87029
+[Epoch 2] max_vail_acc: 0.87029
+Epoch 3
+[Epoch 3, validation] Confusion Matrix:
+[[5343    0    0    1    1  105   27    9    6]
+ [   2 1127   23   69   20  257    0    0    0]
+ [   0   40 1643    0   58   23    0    0    0]
+ [   0    0    0 2294    9    0    0    0    0]
+ [   5   87    0  243 2114    2    0    0    0]
+ [  91   24    0  599   17 1092   16    0    0]
+ [  15    0    0    0    0    2 1677   70    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 3, tain] loss: 0.007, train_accuracy: 0.94035
+[Epoch 3, Vail] loss: 0.00791, accuracy: 0.91177
+[Epoch 3] max_vail_acc: 0.91177
+Epoch 4
+[Epoch 4, validation] Confusion Matrix:
+[[5368    0    0   18    3   61   32   10    0]
+ [   0 1183   18  143   36  118    0    0    0]
+ [   0   18 1695    0   43    8    0    0    0]
+ [   0    0    0 2294    9    0    0    0    0]
+ [   5   82    0  169 2195    0    0    0    0]
+ [  94    5    0  773   12  939   16    0    0]
+ [   3    0    0    0    0    0 1751   10    0]
+ [   0    0    0    0    1    0    0 1763    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 4, tain] loss: 0.005, train_accuracy: 0.95798
+[Epoch 4, Vail] loss: 0.00779, accuracy: 0.91826
+[Epoch 4] max_vail_acc: 0.91826
+Epoch 5
+[Epoch 5, validation] Confusion Matrix:
+[[5465    0    0    0    7    1   16    3    0]
+ [  41 1226    0   38   41  152    0    0    0]
+ [   0  108 1597    0   36   23    0    0    0]
+ [   0    0    0 2223   10   70    0    0    0]
+ [   6   66    0   30 2348    1    0    0    0]
+ [ 355    0    0  315   17 1137   15    0    0]
+ [ 179    0    0    0    0    0 1573   12    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   4    0    0    0    0    0    0    0 1760]]
+[Epoch 5, tain] loss: 0.004, train_accuracy: 0.96984
+[Epoch 5, Vail] loss: 0.00666, accuracy: 0.92509
+[Epoch 5] max_vail_acc: 0.92509
+Epoch 6
+[Epoch 6, validation] Confusion Matrix:
+[[5364    0    0    2   40   37   33    9    7]
+ [   0 1242    0   27  125  104    0    0    0]
+ [   0   33 1643    0   86    0    0    0    2]
+ [   0    0    0 2137   56  110    0    0    0]
+ [   1    7    0    0 2443    0    0    0    0]
+ [  84    0    0  191  118 1429   17    0    0]
+ [   2    0    0    0    0    0 1758    4    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 6, tain] loss: 0.003, train_accuracy: 0.97754
+[Epoch 6, Vail] loss: 0.00528, accuracy: 0.94695
+[Epoch 6] max_vail_acc: 0.94695
+Epoch 7
+[Epoch 7, validation] Confusion Matrix:
+[[5430    0    0    0    1   40   19    2    0]
+ [   0 1310    4   33    9  142    0    0    0]
+ [   0   14 1723    0    0   27    0    0    0]
+ [   0    0    0 2163   10  130    0    0    0]
+ [   4   87    0    5 2355    0    0    0    0]
+ [  89    0    0  246   28 1462   14    0    0]
+ [  85    0    0    0    0    0 1676    3    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 7, tain] loss: 0.003, train_accuracy: 0.98210
+[Epoch 7, Vail] loss: 0.00463, accuracy: 0.95194
+[Epoch 7] max_vail_acc: 0.95194
+Epoch 8
+[Epoch 8, validation] Confusion Matrix:
+[[5437    0    0    0    7   26   17    5    0]
+ [   0 1270    0   25   85  118    0    0    0]
+ [   0  100 1635    0    3   26    0    0    0]
+ [   0    0    0 2095   11  197    0    0    0]
+ [   2   37    0    0 2412    0    0    0    0]
+ [  90    0    0   87   46 1602   14    0    0]
+ [ 104    0    0    0    0    0 1647   13    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 8, tain] loss: 0.002, train_accuracy: 0.98641
+[Epoch 8, Vail] loss: 0.00465, accuracy: 0.95092
+[Epoch 8] max_vail_acc: 0.95194
+Epoch 9
+[Epoch 9, validation] Confusion Matrix:
+[[5425    0    0    0    2   37   19    7    2]
+ [   0 1310    0   21  105   62    0    0    0]
+ [   0  103 1626    0    0   35    0    0    0]
+ [   0    0    0 2115   13  175    0    0    0]
+ [   2   47    0    0 2400    2    0    0    0]
+ [  92    0    0   85   19 1631   12    0    0]
+ [  31    0    0    0    0    0 1718   15    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 9, tain] loss: 0.002, train_accuracy: 0.98881
+[Epoch 9, Vail] loss: 0.00417, accuracy: 0.95707
+[Epoch 9] max_vail_acc: 0.95707
+Epoch 10
+[Epoch 10, validation] Confusion Matrix:
+[[5454    0    0    0    0   15   19    4    0]
+ [   3 1250    0   17   13  215    0    0    0]
+ [   0  126 1580    0    7   51    0    0    0]
+ [   0    0    0 2043   10  250    0    0    0]
+ [   6  103    0    1 2323   18    0    0    0]
+ [ 103    0    0   81   23 1615   17    0    0]
+ [  23    0    0    0    0    0 1735    6    0]
+ [   0    0    0    0    0    0    0 1764    0]
+ [   0    0    0    0    0    0    0    0 1764]]
+[Epoch 10, tain] loss: 0.002, train_accuracy: 0.99068
+[Epoch 10, Vail] loss: 0.00621, accuracy: 0.94617
+[Epoch 10] max_vail_acc: 0.95707
