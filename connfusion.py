@@ -53,5 +53,6 @@ rect = patches.Rectangle(
 )
 ax.add_patch(rect)
 
+
 # 保存图片
 plt.savefig('/root/projects/JJW_Model/contrast/png/open.png', dpi=900, bbox_inches='tight')
